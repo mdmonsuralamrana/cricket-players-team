@@ -1,0 +1,17 @@
+.added-player{
+    display :flex ;
+    border: 1px solid lightblue;
+}
+.added-player h5{
+    width: 70%;
+    text-align: left;
+    margin-bottom: 0;
+    padding: 5px;
+    border-right: 1px solid lightblue;
+}
+.added-player p {
+    width: 30% ;
+    text-align:right ;
+    margin-bottom: 0;
+    padding: 5px;
+}

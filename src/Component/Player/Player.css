@@ -1,0 +1,9 @@
+.player-photo img {
+    width: 100%;
+    height: 300px;
+}
+.player-container{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
